@@ -23,5 +23,5 @@ This project performs Exploratory Data Analysis (EDA) on car sales data using Py
 - Sales vary across regions
 - Seasonal trends observed in sales
 
-## 🚀 Conclusion
+## Conclusion
 This project demonstrates data analysis and visualization skills using Python.
